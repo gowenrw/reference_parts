@@ -19,3 +19,6 @@ This is the file structure of this repository
 * Korean Hroparts Elec SK-12D02-VG3 Toggle Switch
   * [LCSC.COM Reference](Korean-Hroparts-Elec-SK-12D02-VG3_C136723_lcsc.com.pdf)
   * [Datasheet](Korean-Hroparts-Elec-SK-12D02-VG3_C136723_datasheet.pdf)
+* Korean Hroparts Elec SS-12D02-VG4 Toggle Switch
+  * [LCSC.COM Reference](Korean-Hroparts-Elec-SS-12D02-VG4_C136719_lcsc.pdf)
+  * [Datasheet](Korean-Hroparts-Elec-SS-12D02-VG4_C136719_datasheet.pdf)

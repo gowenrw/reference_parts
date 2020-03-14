@@ -1,4 +1,4 @@
-# Reference / Switches
+# Reference / USB Connector
 
 Reference Materials related to USB connectors.
 

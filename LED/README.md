@@ -84,12 +84,18 @@ This is the file structure of this repository
   * [LCSC.COM Reference](Foshan-NationStar-Optoelectronics-NCD0603Y1_C84268_0603_yellow_lcsc.pdf)
   * [Datasheet](Foshan-NationStar-Optoelectronics-NCD0603Y1_C84268_0603_yellow_datasheet.pdf)
 
+### THT Form
+
+* Hubei-Kento Electric RGB Common Cathode 5mm
+  * [Datasheet](Hubei-KENTO-Elec-1810271711-C72695_C72695.pdf)
+  * [Datasheet-Translated](Hubei-KENTO-Elec-1810271711-C72695_C72695-en.pdf)
+
 ## Neopixel Reference Files
 
 * Adafruit Neopixel Reference
   * [Neopixel Uberguide](adafruit-neopixel-uberguide.pdf)
-* World Semi Neopixels
+* World Semi Neopixels WS2812
   * [WS2812 Datasheet](WS2812.pdf)
   * [WS2812B Datasheet](WS2812B.pdf)
-* ETC Neopixels
+* ETC Neopixels APA-106 THT 5mm and 8mm
   * [APA-106-F8,F5 Datasheet](APA106-COM-12877.pdf)

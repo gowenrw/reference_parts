@@ -37,3 +37,10 @@ The reference files listed here are broken out by form factor and listed in desc
 * Walsin Tech Corp 0603 100nF (0.1uF)
   * [LCSC Reference](Walsin-Tech-Corp-0603F104Z500CT_C83060_0603_100nF_lcsc.pdf)
   * [Datasheet](Walsin-Tech-Corp-0603F104Z500CT_C83060_0603_100nF_datasheet.pdf)
+
+### THT Form
+
+* Vishay K-Series THT Radial Leaded Ceramic Capacitors 10pF to 1μF
+  * [Datasheet](Vishay-kseries-278438.pdf)
+* XICOM Ceramic Disc Capacitors Various #pF to #μF available
+  * [Datasheet](XICON-XC-600140.pdf)

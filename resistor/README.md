@@ -58,3 +58,12 @@ The reference files listed here are broken out by form factor and listed in desc
 * KOA Spear Elec 0603 220 Ohm 1/8 Watt Resistor
   * [LCSC Reference](KOA-Speer-Elec-RK73B1JTTD221J_C202428_0603_220ohm_lcsc.pdf)
   * [Datasheet](KOA-Speer-Elec-RK73B1JTTD221J_C202428_0603_220ohm_datasheet.pdf)
+
+### THT Form
+
+* CCO Chian Chia Elec THT 560 Ohm 1/4 Watt Resistor
+  * [LCSC](CCO-Chian-Chia-Elec-MF1-4W-560R-1_C127222_560ohm_lcsc.pdf)
+  * [Datasheet](CCO-Chian-Chia-Elec-MF1-4W-560R-1_C127222_560ohm_datasheet.pdf)
+* CCO Chian Chia Elec THT 470 Ohm 1/4 Watt Resistor
+  * [LCSC](CCO-Chian-Chia-Elec-MF1-4W-470R-1-T52_C119317_470ohm_lcsc.pdf)
+  * [Datasheet](CCO-Chian-Chia-Elec-MF1-4W-470R-1-T52_C119317_470ohm_datasheet.pdf)
