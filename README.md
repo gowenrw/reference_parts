@@ -18,5 +18,6 @@ This is the file structure of this repository
   * [/reference_parts/LED/](/reference_parts/LED/) - Reference Materials related to LEDs.
   * [/reference_parts/resistor/](/reference_parts/resistor/) - Reference Materials related to resistors.
   * [/reference_parts/switch/](/reference_parts/switch/) - Reference Materials related to the switches.
+  * [/reference_parts/TelCo-connector/](/reference_parts/TelCo-connector/)  - Reference Materials related to TelCo connectors.
   * [/reference_parts/trinket-m0/](/reference_parts/trinket-m0/) - Reference Materials related to the Adafruit Trinket.
   * [/reference_parts/USB-connector/](/reference_parts/USB-connector/) - Reference Materials related to USB connectors.
