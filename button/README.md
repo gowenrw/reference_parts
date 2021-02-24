@@ -22,3 +22,10 @@ This is the file structure of this repository
 * Shou Han THT Tactile Switch
   * [LCSC.COM Reference](1905211531_SHOU-HAN-TS665CJ_C393938_lcsc.com.pdf)
   * [Datasheet](1905211531_SHOU-HAN-TS665CJ_C393938_datasheet.pdf)
+* Shou Han SHOU HAN TS3735PA 250gf Round Micro Tactile Switch
+  * [LCSC.COM Reference](1912111437_SHOU-HAN-TS3735PA-250gf_C393946_lcsc.com.pdf)
+  * [Datasheet](1912111437_SHOU-HAN-TS3735PA-250gf_C393946_datasheet.pdf)
+  * [SamacSys EDA Schematic/Footprint/Model](LIB_TS3735PA_250GF_C393946.zip)
+* XKB Connectivity TS-1109S-C-B Tactile Switch
+  * [LCSC.COM Reference](2002271743_XKB-Connectivity-TS-1109S-C-B_C381037_lcsc.com.pdf)
+  * [Datasheet](2002271743_XKB-Connectivity-TS-1109S-C-B_C381037_datasheet.pdf)
