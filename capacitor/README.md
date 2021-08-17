@@ -44,3 +44,6 @@ The reference files listed here are broken out by form factor and listed in desc
   * [Datasheet](Vishay-kseries-278438.pdf)
 * XICOM Ceramic Disc Capacitors Various #pF to #μF available
   * [Datasheet](XICON-XC-600140.pdf)
+* CX(Dongguan Chengxing Elec) 100uF 10V 50mA ±20% Radial Leaded 5x7mm Aluminum Electrolytic
+  * [LCSC Reference](1809171411_CX-Dongguan-Chengxing-Elec-KS107M010D07RR0VH2FP0_C43315_lcsc.pdf)
+  * [Datasheet](1809171411_CX-Dongguan-Chengxing-Elec-KS107M010D07RR0VH2FP0_C43315_datasheet.pdf)

@@ -44,6 +44,9 @@ Programming is either with Keil C51 or with SDCC (links below)
 * WCH Jiangsu Qin Heng CH558T (SSOP20)
   * [LCSC.COM Reference](2008191734_WCH-Jiangsu-Qin-Heng-CH558T_C139616_lcsc.com.pdf)
   * [Datasheet CN](2008191734_WCH-Jiangsu-Qin-Heng-CH558T_C139616_datasheet.pdf)
+* WCH Jiangsu Qin Heng CH554G (SOP16)
+  * [LCSC.COM Reference](2008191734_WCH-Jiangsu-Qin-Heng-CH554G_C114295_lcsc.pdf)
+  * [Datasheet CN](2008191734_WCH-Jiangsu-Qin-Heng-CH554G_C114295_datasheet.pdf)
 
 ## External References
 

@@ -67,3 +67,18 @@ The reference files listed here are broken out by form factor and listed in desc
 * CCO Chian Chia Elec THT 470 Ohm 1/4 Watt Resistor
   * [LCSC](CCO-Chian-Chia-Elec-MF1-4W-470R-1-T52_C119317_470ohm_lcsc.pdf)
   * [Datasheet](CCO-Chian-Chia-Elec-MF1-4W-470R-1-T52_C119317_470ohm_datasheet.pdf)
+* Huaxing Mechanical-Elec. CF 1/6 Watt 1K Ohm ±5%
+  * [LCSC](2008101536_Huaxing-Mechanical-Elec--CF1-6W-1KR-5-T52_C714219_lcsc.pdf)
+  * [Datasheet](2008101536_Huaxing-Mechanical-Elec--CF1-6W-1KR-5-T52_C714219_datasheet.pdf)
+* Huaxing Mechanical-Elec. CF 1/6 Watt 510 Ohm ±5%
+  * [LCSC](2012102140_Huaxing-Mechanical-Elec--CF1-6W-510R-5-T52_C714216_lcsc.pdf)
+  * [Datasheet](2012102140_Huaxing-Mechanical-Elec--CF1-6W-510R-5-T52_C714216_datasheet.pdf)
+* Huaxing Mechanical-Elec. CF 1/6 Watt 10 Ohm ±5%
+  * [LCSC](2011101205_Huaxing-Mechanical-Elec--CF1-6W-10R-5-T52_C714205_lcsc.pdf)
+  * [Datasheet](2011101205_Huaxing-Mechanical-Elec--CF1-6W-10R-5-T52_C714205_datasheet.pdf)
+
+### Variable Resistors / Potentiometers
+
+* HDK(Hokuriku Elec Industry) VZ067TL1B303 THT 0-30K Ohm 0.1 Watt 100 V
+  * [LCSC](1810170429_HDK-Hokuriku-Elec-Industry-VZ067TL1B303_C145139_lcsc.pdf)
+  * [Datasheet](1810170429_HDK-Hokuriku-Elec-Industry-VZ067TL1B303_C145139_datasheet.pdf)
