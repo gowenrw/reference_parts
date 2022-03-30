@@ -89,7 +89,10 @@ This is the file structure of this repository
 * Hubei-Kento Electric RGB Common Cathode 5mm
   * [Datasheet](Hubei-KENTO-Elec-1810271711-C72695_C72695.pdf)
   * [Datasheet-Translated](Hubei-KENTO-Elec-1810271711-C72695_C72695-en.pdf)
-
+* Bicolor LEDs Common Cathode 3mm
+  * [Bicolor_3mm_Green_Blue CC](Bicolor_3mm_Green_Blue_LED_Data_Sheet_N300TSGB4D_lc-led.com.pdf)
+  * [Bicolor_3mm_Red_Yellow CC](Bicolor_3mm_Red_Yellow_LED_Data_Sheet_N300TSRY4D_lc-led.com.pdf)
+  
 ## Neopixel Reference Files
 
 * Adafruit Neopixel Reference
@@ -97,5 +100,7 @@ This is the file structure of this repository
 * World Semi Neopixels WS2812
   * [WS2812 Datasheet](WS2812.pdf)
   * [WS2812B Datasheet](WS2812B.pdf)
+  * [WS2812D F5 Datasheet](WS2812D-F5-15MA-C1-WorldSemi-EN.pdf)
+  * [WS2812D F5 Reversed PIN Datasheet](WS2812D-F5-15MA-C1-RPIN-WorldSemi-EN.pdf)
 * ETC Neopixels APA-106 THT 5mm and 8mm
   * [APA-106-F8,F5 Datasheet](APA106-COM-12877.pdf)
