@@ -31,6 +31,10 @@ The reference files listed here are broken out by form factor and listed in desc
 * Walsin Tech Corp 0805 100nF (0.1uF)
   * [LCSC Reference](Walsin-Tech-Corp-0805F104Z500_C89574_0805_100nF_lcsc.pdf)
   * [Datasheet](Walsin-Tech-Corp-0805F104Z500_C89574_0805_100nF_datasheet.pdf)
+* Samwha 0805 4.7uF
+  * [Datasheet](SAMWHA_CS2012X7R475K250NRE_C513766_datasheet.pdf)
+* Torch 0805 1uF
+  * [Datasheet](TORCH_CC0805X7R25V105KN_C53084463_datasheet.pdf)
 
 ### 0603 Form
 
