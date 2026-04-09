@@ -18,6 +18,9 @@ This is the file structure of this repository
   * [/reference_parts/diode/](/reference_parts/diode/) - Reference Materials related to diodes (excluding LEDs)
   * [/reference_parts/display/](/reference_parts/display/) - Reference Materials related to various displays / screens / e-ink
   * [/reference_parts/esp/](/reference_parts/esp/) - Reference Materials related to various ESP chips and boards including the ESP32 and ESP8266
+  * [/reference_parts/FPC-connector/](/reference_parts/FPC-connector/) - Reference Materials related to FPC and FFC connectors.
+  * [/reference_parts/headers/](/reference_parts/headers/) - Reference Materials related to headers.
+  * [/reference_parts/inductor/](/reference_parts/inductor/) - Reference Materials related to Inductors.
   * [/reference_parts/LED/](/reference_parts/LED/) - Reference Materials related to LEDs.
   * [/reference_parts/power/](/reference_parts/power/) - Reference Materials related to various power components including voltage regulators and battery charging
   * [/reference_parts/RaspberryPi/](/reference_parts/RaspberryPi/) - Reference Materials related to various Raspberry Pi boards
